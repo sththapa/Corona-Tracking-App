@@ -1,16 +1,44 @@
-# corona_app
+# Nepal Live Corona Tracking App 
+* Overview
+* App Snapshot
+* Motivation
+* Tehnical aspect
+* Installation
+* Updation
+* Technologies used
 
-A new Flutter project.
+# Overview
+This is a mobile application made using flutter sdk using dart language. From this app it will show us the latest updates of the COVID-19 case of Nepal. Similarly, we can see the  latest news about the cases associated with Nepal. I have integrated the API endpoint. The API I used was from https://documenter.getpostman.com/view/9992373/SzS7PkXr?version=latest. Similary, the tutorial for this app is completely explained in English on my channel https://www.youtube.com/watch?v=UQzt_VKOcCY.
 
-## Getting Started
+# App Snapshot
 
-This project is a starting point for a Flutter application.
+<img src="coviddata.png"/>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="newsdata.png"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Motivation
+This app was very interesting choice for me. I was motivated to make an app which can show the latest live cases of COVID-19 of Nepal. My main motivation was from my teacher from UDEMY, Dr.Angela Yu who taught me how to code in this platform. I completd here bootcamp programme and I got an idea to explore the data of COVID_19 and make one simple app. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Technical aspect
+> An app is built on the top of flutter sdk using dart. Similary, it is linked with API.
+
+# Installation
+The code is completely written in dart language and for that I have installed flutter sdk from here https://flutter.dev/?gclid=Cj0KCQjwxNT8BRD9ARIsAJ8S5xaseAhDtZP4vGR-bURa2jP3yByRrT0Pgp4Xq2f1B0LRXiaydcDdNDkaAlJSEALw_wcB&gclsrc=aw.ds
+
+# Technologies used
+
+> Flutter
+<img src="flutter.png"/>
+
+> Dart
+<img src="dart.png"/>
+
+> Vs Code
+<img src="vscode.png"/>
+
+- ©️ Santosh Thapa 2020
+
+
+
+
+

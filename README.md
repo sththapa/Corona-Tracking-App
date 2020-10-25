@@ -10,7 +10,7 @@
 # Overview
 This is a mobile application made using flutter sdk using dart language. From this app it will show us the latest updates of the COVID-19 case of Nepal. Similarly, we can see the  latest news about the cases associated with Nepal. I have integrated the API endpoint. The API I used was from https://documenter.getpostman.com/view/9992373/SzS7PkXr?version=latest. Similary, the tutorial for this app is completely explained in English on my channel https://www.youtube.com/watch?v=UQzt_VKOcCY.
 
-# App Snapshot
+# App Snapshots
 
 <img src="coviddata.png"/>
 
